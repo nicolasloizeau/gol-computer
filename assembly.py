@@ -21,7 +21,7 @@ move a b
 -> b=a
 
 jumpif a
--> jump the next line if a is not 0 (equivalent to: write h n-1)
+-> jump the next line if a is not 0
 
 print a
 -> print a
